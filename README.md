@@ -10,7 +10,7 @@
 
 #### Detalhes do código.
 
-https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/ResponseModel.cs
+Veja o código da Response.cs 👉https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/ResponseModel.cs
 
 Esse código define uma <b>classe genérica</b> chamada ResponseModel<T> dentro do namespace WebAPI8_Video.Models. Essa classe é usada para estruturar respostas padronizadas em uma API. Vamos detalhar parte por parte:
 
